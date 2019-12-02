@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+
+i.icon{
+    font-size: 3em;
+}
+
+#blog-name{
+    font-size: 3.5em;
+}
+
+container.main{
+    margin-top: 7.0em;
+}
+
+#delete{
+    display: inline;
+}
